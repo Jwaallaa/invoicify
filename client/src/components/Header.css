@@ -1,0 +1,39 @@
+.header{
+    border-bottom: 2px solid rgb(84, 84, 84);
+
+
+}
+
+.header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 15px;
+}
+span{
+    font-size: 24px;
+    cursor: pointer;
+    
+    
+}
+
+.header  nav a {
+    margin: 0 25px;
+}
+
+
+
+
+
+
+
+
+.logo {
+    width: 75px;
+    height: 75px;
+    }

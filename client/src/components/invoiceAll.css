@@ -1,0 +1,14 @@
+.container{
+    width: 100vw !important;
+    height: 100vh;
+    margin : 0 auto;
+}
+
+.container table , tr,td,th{
+    /* background-color: black; */
+    color: rgb(67,67,67);
+    border: 2px solid rgb(67,67,67);
+    padding: 10px 10px;
+    margin : 10px 10px;
+}
+
